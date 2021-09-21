@@ -1,4 +1,4 @@
 # hello-world
 first repository.
 Toto je hlavná vetva.
-Edit.
+Toto je edit.
